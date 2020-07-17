@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Chris Geishauser"
-  avatar           : "profile_chris.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile_chris.jpg"
+  bio              : "Phd Student"
+  location         : "Düsseldorf, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/chris_de_berghie/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
