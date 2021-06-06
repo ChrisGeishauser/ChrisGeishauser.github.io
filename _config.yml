@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chris Geishauser"
 title_separator          : "-"
 name                     : &name "Chris Geishauser"
-description              : &description "Phd student at HHU"
+description              : &description "PhD student at HHU"
 url                      : https://chrisgeishauser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChrisGeishauser/ChrisGeishauser.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chris Geishauser"
   avatar           : "profile_chris.jpg"
-  bio              : "Phd Student at HHU"
+  bio              : "PhD Student at HHU"
   location         : "Düsseldorf, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
